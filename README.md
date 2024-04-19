@@ -40,10 +40,6 @@ ___
 	import numpy as np
 ```
 
-<center>
-	![베베-겁나 카리스마 있어](https://github.com/jsh02/jsh02/assets/127283576/026889de-b41b-4456-bbd9-74fd0230af49)
-</center>
-
 
 
 ``` 언어
